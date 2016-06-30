@@ -79,7 +79,7 @@ print log_loss(y_test, y_predd)
 # applying the model on test data set and writing the results to submission1.csv file.
 final_pred = logreg.predict_proba(test_data)
 result=pd.DataFrame(final_pred, columns=crime1.classes_)
-path='/Users/Saman/Desktop/BigD/San_Francisco_Crime_Classification/'
+path='/Users/.../BigD/San_Francisco_Crime_Classification/'
 result.to_csv(path + 'submission1.csv', index = True, index_label = 'Id' )
 ```
 
