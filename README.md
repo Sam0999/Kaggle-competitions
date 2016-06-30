@@ -1,3 +1,8 @@
+# Python Data Analysis and Machine Learning
+## Saman Safari D.
+## samsafari999@GMAIL.COM
+
+
 # Kaggle-competitions
 Kaggle competition is a data science competition where data from different companies and public institutes are provided for analysis. In Kaggle, we choose a particular competition and we download its training datasets. Next step is, building a model using our choice of methods or tools. Finally, the predications are uploaded and Kaggle scores the solution, which are then displayed on the leaderboard. https://www.kaggle.com/competitions
 
